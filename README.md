@@ -1,2 +1,2 @@
-# Study-C-
+# Study_C++
 Aku sedang belajar membuat program sederhana menggunakan C++
